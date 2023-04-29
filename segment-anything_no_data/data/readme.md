@@ -1,0 +1,1 @@
+* downscale image by 0.5
